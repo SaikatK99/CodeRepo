@@ -28,7 +28,6 @@ public class StringToInteger {
         return result*sign;
     }
 
-
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader=new BufferedReader(new InputStreamReader(System.in));
         System.out.println("Enter String: ");
