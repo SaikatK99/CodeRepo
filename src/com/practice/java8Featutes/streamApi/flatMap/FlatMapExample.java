@@ -1,4 +1,4 @@
-package com.practice.streamApi.flatMap;
+package com.practice.java8Featutes.streamApi.flatMap;
 
 import java.util.Arrays;
 import java.util.List;
